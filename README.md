@@ -51,7 +51,6 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto.
 
 A continuación se muestra una vista previa del dashboard creado en Power BI, que visualiza los datos recopilados en este proyecto.
 
-*(Para mostrar tu imagen: súbela a tu repositorio de GitHub y reemplaza `ruta/a/tu/imagen.png` con el enlace directo al archivo)*
 
 ![Dashboard de Power BI](Dashboard_Liga1.png)
 
