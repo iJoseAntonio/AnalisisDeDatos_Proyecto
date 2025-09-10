@@ -53,7 +53,7 @@ A continuación se muestra una vista previa del dashboard creado en Power BI, qu
 
 *(Para mostrar tu imagen: súbela a tu repositorio de GitHub y reemplaza `ruta/a/tu/imagen.png` con el enlace directo al archivo)*
 
-![Dashboard de Power BI](ruta/a/tu/imagen.png)
+![Dashboard de Power BI](Dashboard_Liga1.png)
 
 ## 📂 Archivos del Proyecto
 
