@@ -15,8 +15,7 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/iJoseAntonio/AnalisisDeDatos_Proyecto.git
     ```
 
 2.  **Crea y activa un entorno virtual:**
