@@ -5,7 +5,7 @@ Este proyecto extrae, procesa y analiza datos estadísticos de la Liga 1 de fút
 ## 📋 Características
 
 -   **Web Scraping**: Script para extraer datos actualizados de la tabla de posiciones y resultados.
--   **Almacenamiento de Datos**: La información se guarda en un archivo `.xlsx` para facilitar su manejo.
+-   **Base de Datos**: La información se guarda en una base de datos relacional de SQL Server para facilitar su manejo.
 -   **Análisis Exploratorio**: Un Jupyter Notebook para visualizar y analizar las estadísticas recopiladas.
 -   **Visualización**: Dashboard interactivo en Power BI.
 
